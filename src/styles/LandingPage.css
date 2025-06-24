@@ -1,0 +1,22 @@
+body {
+    background-color: #f0fdf4;
+}
+
+.landing_forms {
+    max-width: 400px;
+    width: 100%;
+    margin: 250px auto;
+    padding: 20px;
+}
+
+button {
+  padding: 12px;
+  background-color: #1ab551;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+  width: 100%;
+  font-size: 16px;
+}
